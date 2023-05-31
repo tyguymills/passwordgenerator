@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Javascript Password Generator</title>
+</head>
+<body>
+    <center><header>
+        <h1>Password Generator</h1>
+    </header></center>
+    <center><main>
+        <article>
+            <div class="white">
+                <textarea id="password" rows="1" cols="30"></textarea>
+            </div>
+            <div>
+                <button onclick="generateAndInsertPassword()">Generate Password</button>
+            </div>
+            <div>
+                <label class="length" for="length">Password Length:</label>
+                <input class="" type="number" id="length" min="8" max="128" value="8">
+             </div>
+             <div>
+                <label for="includeSpecial">Include Special Characters:</label>
+                <input type="checkbox" id="includeSpecial">
+            </div>
+        </article>
+    </main></center>
+<script src="./index.js"></script>
+</body>
+</html>

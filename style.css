@@ -1,0 +1,25 @@
+* {
+    /* used https://cssgradient.io/gradient-backgrounds/ for background */
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+}
+.white {
+    background-color: white;
+}
+main{
+    padding:25px;
+    border: 1px solid #000000;
+}
+h1 {
+    font-size: 2.5rem;
+}
+#password {
+    padding: 30px 15%;
+}
+div {
+    margin-top:10px;
+}
+button {
+    font-weight: bold;
+    border-radius: 8px;
+}
