@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/[tyguymills]/[passwordgenerator]/blob/[main]/passwordgeneratorinaction.png?raw=true)
+![plot](./assets/passwordgeneratorinaction.png)
 
     
 ## Table of Contents
@@ -18,16 +18,14 @@ Created a simple javascript password generator that on button click, generates a
 To help start me off on my javascript journey and help me with something that comes in handy in my daily life
     
 # Installation
-no installation necessary. Just have the files I have on Github.
+No installation necessary. Just have the files I have on Github.
     
 # Contributors
-no
+No
     
-# Questions
-no
-tyguymills
-tyguymills@gmail.com
+# Contact Me
+
+github: tyguymills
+Email: tyguymills@gmail.com
     
-# License
-mit
 
